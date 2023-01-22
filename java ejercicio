@@ -1,0 +1,15 @@
+
+  static void MuestraNumero (int numero)
+   
+  System.out.printin ("Numero mostrado: "+ numero");
+
+}
+
+public static void main (String [string args]){
+
+    int num;
+
+num = 3;
+
+MuestraNumero(num);
+}
