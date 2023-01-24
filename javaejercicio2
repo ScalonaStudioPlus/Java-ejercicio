@@ -1,0 +1,39 @@
+<--condicional if-->
+
+public class main {
+public class void main (String [] args) {
+int numero = 1 
+if (numero == "positivo") {
+system.out.println (numero);
+} else {
+system.out.println("es negativo");
+}
+}
+}
+
+<--Bucle While>
+
+public clas main {
+public class void main (String [] args) {
+var numero = 3
+while (numero <=3) {
+system.out.println(numero);
+}
+}
+}
+
+<--Switch-->
+
+public class main {
+public class void main (String [] args){
+switch(estacion) {
+case: verano;
+case: primavera;
+case: invierno;
+case: otoño;
+system.out.println("es estación");
+break;
+defeault:;
+system.out.println("no es estación");
+}
+}
